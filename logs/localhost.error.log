@@ -6,3 +6,28 @@
 2025/01/04 09:40:54 [error] 3480#13116: *36 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost", referrer: "http://localhost/"
 2025/01/04 09:44:24 [error] 3480#13116: *49 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost"
 2025/01/04 09:44:26 [error] 3480#13116: *49 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost", referrer: "http://localhost/"
+2025/01/04 09:59:51 [error] 11560#8064: *1 FastCGI sent in stderr: "PHP Warning:  require(C:\nginx\html\laravel\public/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\nginx\html\laravel\public\index.php on line 13
+PHP Fatal error:  Uncaught Error: Failed opening required 'C:\nginx\html\laravel\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\nginx\html\laravel\public\index.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\nginx\html\laravel\public\index.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost"
+2025/01/04 10:00:11 [error] 11560#8064: *1 FastCGI sent in stderr: "PHP Warning:  require(C:\nginx\html\laravel\public/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\nginx\html\laravel\public\index.php on line 13
+PHP Fatal error:  Uncaught Error: Failed opening required 'C:\nginx\html\laravel\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\nginx\html\laravel\public\index.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\nginx\html\laravel\public\index.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost"
+2025/01/04 10:00:11 [error] 11560#8064: *1 FastCGI sent in stderr: "PHP Warning:  require(C:\nginx\html\laravel\public/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\nginx\html\laravel\public\index.php on line 13
+PHP Fatal error:  Uncaught Error: Failed opening required 'C:\nginx\html\laravel\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\nginx\html\laravel\public\index.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\nginx\html\laravel\public\index.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost"
+2025/01/04 10:00:54 [error] 11560#8064: *1 FastCGI sent in stderr: "PHP Warning:  require(C:\nginx\html\laravel\public/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\nginx\html\laravel\public\index.php on line 13
+PHP Fatal error:  Uncaught Error: Failed opening required 'C:\nginx\html\laravel\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\nginx\html\laravel\public\index.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\nginx\html\laravel\public\index.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost"
+2025/01/04 10:00:55 [error] 11560#8064: *1 FastCGI sent in stderr: "PHP Warning:  require(C:\nginx\html\laravel\public/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\nginx\html\laravel\public\index.php on line 13
+PHP Fatal error:  Uncaught Error: Failed opening required 'C:\nginx\html\laravel\public/../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\nginx\html\laravel\public\index.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\nginx\html\laravel\public\index.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "localhost"
