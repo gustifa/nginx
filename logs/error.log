@@ -1,0 +1,12 @@
+2025/01/04 07:45:05 [error] 10248#1720: *1 CreateFile() "C:\Users\GA TECH\Downloads\nginx-1.26.2\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/01/04 08:36:52 [error] 10248#1720: *12 CreateFile() "C:\Users\GA TECH\Downloads\nginx-1.26.2\nginx-1.26.2/html/inde.php" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /inde.php HTTP/1.1", host: "localhost"
+2025/01/04 08:36:58 [error] 10248#1720: *12 CreateFile() "C:\Users\GA TECH\Downloads\nginx-1.26.2\nginx-1.26.2/html/inde.php" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /inde.php HTTP/1.1", host: "localhost"
+2025/01/04 08:40:46 [emerg] 2760#2632: "server" directive is not allowed here in C:\Users\GA TECH\Downloads\nginx-1.26.2\nginx-1.26.2/conf/nginx.conf:1
+2025/01/04 08:41:35 [emerg] 11404#4132: "server" directive is not allowed here in C:\Users\GA TECH\Downloads\nginx-1.26.2\nginx-1.26.2/conf/nginx.conf:1
+2025/01/04 08:41:58 [emerg] 13996#12836: "server" directive is not allowed here in C:\Users\GA TECH\Downloads\nginx-1.26.2\nginx-1.26.2/conf/nginx.conf:1
+2025/01/04 08:43:08 [emerg] 5916#1504: "server" directive is not allowed here in C:\Users\GA TECH\Downloads\nginx-1.26.2\nginx-1.26.2/conf/nginx.conf:1
+2025/01/04 08:52:26 [emerg] 1764#10460: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
+2025/01/04 08:53:13 [emerg] 10540#7344: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
+2025/01/04 08:56:15 [emerg] 9772#2328: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
+2025/01/04 09:05:44 [emerg] 4308#13508: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
+2025/01/04 09:09:15 [emerg] 8440#7088: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
