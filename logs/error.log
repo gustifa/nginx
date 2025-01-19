@@ -10,3 +10,72 @@
 2025/01/04 08:56:15 [emerg] 9772#2328: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
 2025/01/04 09:05:44 [emerg] 4308#13508: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
 2025/01/04 09:09:15 [emerg] 8440#7088: "server" directive is not allowed here in C:\nginx/conf/nginx.conf:1
+2025/01/19 10:10:32 [emerg] 8928#6088: invalid number of arguments in "proxy_pass" directive in C:\nginx/conf/nginx.conf:45
+2025/01/19 10:10:34 [emerg] 4332#9100: invalid number of arguments in "proxy_pass" directive in C:\nginx/conf/nginx.conf:45
+2025/01/19 10:10:38 [emerg] 14184#6352: invalid number of arguments in "proxy_pass" directive in C:\nginx/conf/nginx.conf:45
+2025/01/19 10:10:46 [emerg] 14236#9268: unexpected "}" in C:\nginx/conf/nginx.conf:46
+2025/01/19 10:11:00 [emerg] 8#13996: unexpected "}" in C:\nginx/conf/nginx.conf:46
+2025/01/19 10:11:02 [emerg] 14608#14116: unexpected "}" in C:\nginx/conf/nginx.conf:46
+2025/01/19 10:11:06 [emerg] 6172#5700: unexpected "}" in C:\nginx/conf/nginx.conf:46
+2025/01/19 10:12:13 [emerg] 13792#14868: unexpected "}" in C:\nginx/conf/nginx.conf:50
+2025/01/19 10:12:15 [emerg] 2396#14836: unexpected "}" in C:\nginx/conf/nginx.conf:50
+2025/01/19 10:12:19 [emerg] 2116#8312: unexpected "}" in C:\nginx/conf/nginx.conf:50
+2025/01/19 10:13:32 [emerg] 9972#6088: unexpected end of file, expecting "}" in C:\nginx/conf/nginx.conf:97
+2025/01/19 10:13:34 [emerg] 9916#8820: unexpected end of file, expecting "}" in C:\nginx/conf/nginx.conf:97
+2025/01/19 10:13:38 [emerg] 14452#8480: unexpected end of file, expecting "}" in C:\nginx/conf/nginx.conf:97
+2025/01/19 10:13:46 [emerg] 14448#9256: unexpected end of file, expecting "}" in C:\nginx/conf/nginx.conf:97
+2025/01/19 12:48:44 [emerg] 15084#9164: unknown directive "ssl" in C:\nginx/conf/nginx.conf:43
+2025/01/19 12:48:46 [emerg] 16704#3504: unknown directive "ssl" in C:\nginx/conf/nginx.conf:43
+2025/01/19 12:48:50 [emerg] 14376#3712: unknown directive "ssl" in C:\nginx/conf/nginx.conf:43
+2025/01/19 12:48:58 [emerg] 15856#6600: unknown directive "ssl" in C:\nginx/conf/nginx.conf:43
+2025/01/19 12:49:14 [emerg] 10968#17196: unknown directive "ssl" in C:\nginx/conf/nginx.conf:43
+2025/01/19 12:49:47 [emerg] 8104#8824: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:49:49 [emerg] 9172#5076: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:49:53 [emerg] 9000#16936: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:50:01 [emerg] 14156#16628: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:54:42 [emerg] 16232#14956: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:54:44 [emerg] 7500#12200: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:54:49 [emerg] 10892#884: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:54:57 [emerg] 7264#11256: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:59:24 [emerg] 14024#14728: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 12:59:26 [emerg] 16092#15312: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:01:02 [emerg] 15532#17076: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:01:04 [emerg] 17236#9448: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:01:08 [emerg] 14636#6172: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:01:16 [emerg] 16680#4372: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:01:32 [emerg] 17120#15480: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:02:04 [emerg] 16684#16844: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:03:05 [emerg] 13904#1232: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:03:07 [emerg] 14044#9128: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:03:11 [emerg] 11728#15728: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:03:19 [emerg] 7444#16636: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:03:36 [emerg] 7860#10268: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:04:08 [emerg] 8484#15748: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:05:12 [emerg] 11820#16132: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:05:15 [emerg] 10996#11040: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:05:17 [emerg] 8844#12432: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:05:21 [emerg] 10576#9108: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:05:29 [emerg] 4104#14152: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:05:45 [emerg] 3220#10792: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:06:10 [emerg] 712#5804: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:06:12 [emerg] 14760#9424: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:06:16 [emerg] 14616#848: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:06:24 [emerg] 16348#1772: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:06:40 [emerg] 8860#4504: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:07:12 [emerg] 10996#12432: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:80
+2025/01/19 13:07:23 [emerg] 7776#12312: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:07:25 [emerg] 11508#3824: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:07:29 [emerg] 3804#17076: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:07:37 [emerg] 16372#10696: a duplicate listen 0.0.0.0:443 in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:07:53 [emerg] 17092#13452: unknown directive "ssl" in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:07:55 [emerg] 17180#5448: unknown directive "ssl" in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:07:59 [emerg] 9392#9496: unknown directive "ssl" in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:08:07 [emerg] 9788#7408: unknown directive "ssl" in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:08:23 [emerg] 10332#7860: unknown directive "ssl" in C:\nginx/conf/nginx.conf:56
+2025/01/19 13:25:47 [emerg] 15156#8360: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:25:49 [emerg] 16588#3200: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:25:53 [emerg] 12804#17024: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:26:01 [emerg] 15808#16560: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:26:07 [emerg] 404#13496: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:26:09 [emerg] 17132#4188: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
+2025/01/19 13:26:13 [emerg] 5048#15692: unknown directive "ssl" in C:\nginx/conf/nginx.conf:39
